@@ -22,7 +22,7 @@ public class MinMaxAverage {
         System.out.println("Enter array size:");
         return scanner.nextInt();
     }
-    public void generateArrayValues(){
+    public static void generateArrayValues(){
         for(int i = 0; i < array.length; i++) {
             array[i] = random.nextInt(20);
         }

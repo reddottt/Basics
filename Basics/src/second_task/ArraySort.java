@@ -1,16 +1,17 @@
 package second_task;
 
+import java.util.Arrays;
+import static first_task.MinMaxAverage.*;
 import first_task.MinMaxAverage;
 
-import java.util.Arrays;
-
-public class ArraySort extends MinMaxAverage {
+public class ArraySort{
     public static void main(String[] args) {
         ArraySort as = new ArraySort();
-        as.generateArrayValues();
+        MinMaxAverage.generateArrayValues();
         as.sort();
         System.out.println(Arrays.toString(array));
     }
+
     public void sort(){
         for(int i = 0; i < array.length; i++){
             for(int j = 0; j < array.length - 1; j++){
