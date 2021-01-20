@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class MinMaxAverage {
 
     private static Scanner scanner = new Scanner(System.in);
-    private static int[] array = new int[arraySize()];
+    public static int[] array = new int[arraySize()];
     private static Random random = new Random();
 
     public static void main(String[] args){
