@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Basics/Basics.iml" filepath="$PROJECT_DIR$/Basics/Basics.iml" />
       <module fileurl="file://$PROJECT_DIR$/FindingPrimeNumbers/FindingPrimeNumbers.iml" filepath="$PROJECT_DIR$/FindingPrimeNumbers/FindingPrimeNumbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/FirstTask.iml" filepath="$PROJECT_DIR$/.idea/FirstTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RemovingElementFromArray/RemovingElementFromArray.iml" filepath="$PROJECT_DIR$/RemovingElementFromArray/RemovingElementFromArray.iml" />
     </modules>
   </component>
 </project>
